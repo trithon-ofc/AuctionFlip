@@ -2,6 +2,16 @@
 
 AuctionFlip is a World of Warcraft Auction House addon focused on market speculation. It scans the Auction House, identifies profitable flipping opportunities, helps validate purchase decisions, and supports guided resale workflows.
 
+![AuctionFlip Banner](Images/auctionflip.png)
+
+## Screenshots
+
+![AuctionFlip Opportunities](Images/AuctionFlip01.png)
+
+![AuctionFlip Buy Confirmation](Images/AuctionFlip02.png)
+
+![AuctionFlip Selling Workflow](Images/AuctionFlip03.png)
+
 ## Core Purpose
 
 AuctionFlip is designed for players who want to:
