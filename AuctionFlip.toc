@@ -1,0 +1,11 @@
+## Interface: 120001, 120000, 50503, 38000, 20505, 11508
+## Title: AuctionFlip
+## Version: 0.3.17
+## Author: Trithon
+## Notes: Find profitable buying opportunities in the Auction House
+## SavedVariables: AUCTIONFLIP_CONFIG, AUCTIONFLIP_STATS, AUCTIONFLIP_PRICES, AUCTIONFLIP_PORTFOLIO
+## OptionalDeps: LibAHTab
+
+Libs\LibStub\LibStub.lua
+Libs\LibAHTab\LibAHTab.lua
+Source\Manifest.xml

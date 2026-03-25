@@ -1,0 +1,20 @@
+AuctionFlip = {
+  State = {
+    Loaded = false,
+    Version = "dev",
+    Author = "Unknown",
+    IsScanning = false,
+    AHOpen = false,
+    TabCreated = false,
+  },
+  Config = {},
+  Utilities = {},
+  Stats = {},
+  Database = {},
+  Analysis = {},
+  Portfolio = {},
+  Scan = {},
+  Opportunities = {},
+  UI = {},
+  SlashCmd = {},
+}

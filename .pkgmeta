@@ -1,0 +1,10 @@
+package-as: AuctionFlip
+ignore:
+  - README.md
+  - test-data
+  - scripts
+  - annotations.lua
+plain-copy:
+  - Source
+  - Locales
+  - Libs
